@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+#img1{
+	
+	width:250px;
+	height:300px;
+	border-radius:5px
+	
+	
+	}
+
+#zain{
+	color:#FFF;
+	}
+#zain : hover{
+	
+	background-color:#900;
+	
+	}
+#Header{
+	background-color:#900;
+	
+	}
+#logo{
+	height:150px;
+	width:200px;
+	
+	}	
+#heading1{
+	text-align:center;
+	font-family:"Lucida Calligraphy";
+	color:#FFF;
+	font-size:36px;
+	padding-top:15px;
+	}
+#heading2{
+	text-align:center;
+	font-family:"Lucida Calligraphy";
+	font-size:24px;
+	color:#FFF;
+	padding-top:15px;
+	}
+#navbar{
+	text-decoration:none;
+	background-color:#900;
+	font-style:italic;
+	
+	
+	}
+	
+	
+		
+
+	ul li {
+	background-color:#900;
+
+	
+	color:#FFF;
+	
+	}
+
+ul li:hover>ul{
+	background-color:#900;
+	display:block;
+	color:#FFF;
+	
+	}
+ul li:hover>ul a{
+	background-color:#900;
+	
+	
+	}
+	
+	#txt{
+	color:#A00;
+	font-family:"Lucida Calligraphy";
+	}
+		
+
+	
+	
+
+#img{
+	
+	bottom:300px;
+	left:15%;
+  
+	}
+
+	#ms{
+		position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  opacity:0
+		}
+	#text{
+  background-color: #900;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+		}	
+		
+#footlink{
+	padding-top:80px;
+	text-decoration:none;
+	color:#FFF;
+	}
+	#footlink a{
+		color:#FFF;}
+.footer{
+	background-color:#900;
+	width:100%;
+}
+#twt:hover{
+	background-color:#00aced;
+	}
+#lol:hover{
+	background-color:#3b5998
+	
+	}
+#lin:hover{
+	background-color:#0077B5;
+	}
+#tll{
+	text-decoration:none;
+	color:#900;
+	
+	}
+#no{
+	text-decoration:none;
+	}
